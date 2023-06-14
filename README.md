@@ -1,7 +1,7 @@
 
 
 //sentiment analysis using lstm code you can download dataset from kaggle
-
+# To use libraries of keras tensorflow you have to import 
 import numpy as np
 import pandas as pd
 import emoji
